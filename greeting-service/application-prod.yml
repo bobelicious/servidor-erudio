@@ -8,5 +8,5 @@ management:
         include:
           - "*"
 greeting-service:
-  greeting: "estamos em "
-  default-value: prod"
+  greeting: "Você está em"
+  default-value: Paraisopolis"
